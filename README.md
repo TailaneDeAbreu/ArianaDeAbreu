@@ -1,5 +1,4 @@
 ### Olá, Eu sou a Ariana de Abreu.
-
 <!--
 **ArianaDeabreu/ArianaDeAbreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Programadora em fase beta.
 
+🌱 Aprendendo Banco de dados.
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArianaDeAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaDeAbreu&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArianaDeAbreu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaDeAbreu&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,3 +27,5 @@ Here are some ideas to get you started:
     <img align="center" alt="Html" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Css" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  </div>
+ <br>
+ O final não é mais importante que os momentos que levam a ele.
