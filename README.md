@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArianaDeAbreu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img src="https://i.picasion.com/pic91/2115c7a4942228f0d8f135e83822e91c.gif" width="180" height="180" border="0" alt="Ariana"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaDeAbreu&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
@@ -29,4 +30,4 @@ Here are some ideas to get you started:
     <img align="center" alt="Css" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  </div>
  <br>
-O final não é mais importante que os momentos que levam a ele.
+O final não é mais importante que os momentos que levam a ele. 
