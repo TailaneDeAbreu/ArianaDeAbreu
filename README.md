@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height="170" scr="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+  <img height="170cm" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaDeAbreu&show_icons=true&theme=blue-green"/>
 </div>
