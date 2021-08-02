@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Programadora em fase beta.
+🔭 Trabalhando no meu portifólio e no meu site pessoal.
 
 🌱 Aprendendo Banco de dados.
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArianaDeAbreu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaDeAbreu&layout=compact&langs_count=7&theme=synthwave"/>
@@ -28,4 +29,4 @@ Programadora em fase beta.
     <img align="center" alt="Css" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  </div>
  <br>
- O final não é mais importante que os momentos que levam a ele.
+O final não é mais importante que os momentos que levam a ele.
