@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Trabalhando no meu portifólio e no meu site pessoal.
+🔭 Trabalhando no meu portifólio.
 
 🌱 Aprendendo.
 
