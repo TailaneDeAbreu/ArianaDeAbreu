@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 🌱 Aprendendo.
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArianaDeAbreu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TailaneDeAbreu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img src="https://i.picasion.com/pic91/2115c7a4942228f0d8f135e83822e91c.gif" width="180" height="180" border="0" alt="Ariana"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaDeAbreu&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TailaneDeAbreu&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>
